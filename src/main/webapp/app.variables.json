@@ -23,14 +23,14 @@
     "operation" : "gotoPage",
     "pageName" : "Main"
   },
-  "goToPage_Page1" : {
-    "_id" : "wm-goToPage_Page1-wm.NavigationVariable-1509338224889",
-    "name" : "goToPage_Page1",
+  "goToPage_Page2" : {
+    "_id" : "wm-goToPage_Page2-wm.NavigationVariable-1509339980398",
+    "name" : "goToPage_Page2",
     "owner" : "App",
     "category" : "wm.NavigationVariable",
     "dataBinding" : [ ],
     "operation" : "gotoPage",
-    "pageName" : "Page1",
+    "pageName" : "Page2",
     "dataSet" : [ ],
     "pageTransitions" : "none"
   },
